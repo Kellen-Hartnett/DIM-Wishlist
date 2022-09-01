@@ -1,0 +1,19 @@
+title:My wishlist
+
+Kings Fall Fusion
+dimwishlist:item=9&perks=,2869569095,1427256713,120721526
+dimwishlist:item=9&perks=,1600092898,1427256713,120721526
+dimwishlist:item=9&perks=,3108830275,1427256713,120721526
+dimwishlist:item=3969066556&perks=,1427256713
+dimwishlist:item=-3969066556
+
+Heavy Grenade Launchers
+dimwishlist:item=153950757&perks=,3301904089,2284787283
+dimwishlist:item=153950757&perks=,3301904089,3300816228
+
+LFRs
+dimwishlist:item=1504945536&perks=,3988215619#notes: Stinger
+dimwishlist:item=1504945536&perks=,3300816228,1771339417
+dimwishlist:item=1504945536&perks=,247725512,1771339417
+dimwishlist:item=1504945536&perks=,2284787283,1771339417
+dimwishlist:item=1504945536&perks=,2172504645
